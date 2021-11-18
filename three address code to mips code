@@ -1,8 +1,6 @@
 #include<stdio.h>
 #include<string.h>
 #include<conio.h>
-International Journal of Innovations in Engineering and Technology (IJIET)
-Volume 5 Issue 3 June 2015 141 ISSN: 2319 – 1058
 #include<ctype.h>
 void main()
 {
