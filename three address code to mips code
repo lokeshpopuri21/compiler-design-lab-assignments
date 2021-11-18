@@ -1,3 +1,10 @@
+/* input 
+p:=3
+a:=b+c
+x:=y    */
+
+
+
 #include<stdio.h>
 #include<string.h>
 #include<conio.h>
