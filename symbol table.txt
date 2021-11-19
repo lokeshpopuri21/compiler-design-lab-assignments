@@ -9,7 +9,7 @@ using namespace std;
 	char c;
 	int i,count=0,k,d;
 	char s[20],id[25],u[10];
-	ifstream fin("input.cpp", ios::app);
+	ifstream fin("input.cpp", ios::app);                        // Input stream class to operate on files
 	int index = 0,break_index = 0 , chunk_index = 0 ;
 	char temp[10000];
 	int memory = 10245;
